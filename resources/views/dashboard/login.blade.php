@@ -1,0 +1,1 @@
+<a href="{{ url('/auth/redirect') }}">Login with Google</a>
